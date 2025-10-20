@@ -1,4 +1,7 @@
 # Human Clarity Institute – Focus & Distraction Survey 2025  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.pending.svg)](https://zenodo.org/badge/latestdoi/123456789)
+
+**Official website:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)
 
 **Dataset ID:** HCI_2025_FocusSurvey  
 **Version:** 1.0  
@@ -8,7 +11,7 @@
 **Survey Platform:** Google Forms + Prolific  
 
 ## Description  
-De-identified open dataset exploring digital focus, attention, and distraction patterns across six English-speaking countries.  
+De-identified open dataset of 790 participants from six English-speaking countries exploring digital focus, attention, and distraction patterns.  
 The survey examined how notifications, multitasking, and online behaviours influence perceived focus quality, task completion, and energy levels.  
 Findings from this dataset support multiple HCI reports including *Why Can’t I Focus*, *Digital Fatigue & Energy*, *Values vs Noise*, and *Coping & Wellbeing*.
 
