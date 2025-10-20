@@ -1,5 +1,5 @@
 # Human Clarity Institute – Focus & Distraction Survey 2025  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.pending.svg)](https://zenodo.org/badge/latestdoi/123456789)
+[![DOI](https://zenodo.org/badge/1079553200.svg)](https://doi.org/10.5281/zenodo.17394086)
 
 **Official website:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)
 
@@ -30,3 +30,4 @@ This dataset is released under the [Creative Commons Attribution 4.0 Internation
 
 ## Citation  
 Human Clarity Institute (2025). *HCI Focus & Distraction Survey 2025 [Data set]*. Human Clarity Institute. https://humanclarityinstitute.com  
+
