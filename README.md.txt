@@ -1,7 +1,17 @@
 # Human Clarity Institute – Focus & Distraction Survey 2025  
 [![DOI](https://zenodo.org/badge/1079553200.svg)](https://doi.org/10.5281/zenodo.17394086)
 
-**Official website:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)
+## Source and Citation
+
+**Official site:** [https://humanclarityinstitute.com](https://humanclarityinstitute.com)  
+**Dataset page:** [https://humanclarityinstitute.com/datasets/focus-distraction-2025/](https://humanclarityinstitute.com/datasets/focus-distraction-2025/)  
+
+**Full reports using this dataset:**  
+- [Values vs Noise – Full Report](https://humanclarityinstitute.com/reports/values-vs-noise-full-report/)  
+- [Why Can’t I Focus? – Full Report](https://humanclarityinstitute.com/reports/why-cant-i-focus-full-report/)  
+
+**License:** Creative Commons Attribution 4.0 (CC BY 4.0)  
+Please cite as: *Human Clarity Institute (2025). Focus & Distraction 2025 Dataset.*
 
 **Dataset ID:** HCI_2025_FocusSurvey  
 **Version:** 1.0  
@@ -30,4 +40,5 @@ This dataset is released under the [Creative Commons Attribution 4.0 Internation
 
 ## Citation  
 Human Clarity Institute (2025). *HCI Focus & Distraction Survey 2025 [Data set]*. Human Clarity Institute. https://humanclarityinstitute.com  
+
 
