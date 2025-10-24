@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "HCI Focus & Distraction Survey 2025",
+  "description": "De-identified survey dataset examining attention, distraction, busyness, fatigue, and values alignment across 790 participants in 2025.",
+  "url": "https://humanclarityinstitute.com/datasets/focus-distraction-2025/",
+  "identifier": "https://doi.org/10.5281/zenodo.17394087",
+  "sameAs": [
+    "https://doi.org/10.5281/zenodo.17394087"
+  ],
+  "creator": { "@type": "Organization", "name": "Human Clarity Institute", "url": "https://humanclarityinstitute.com" },
+  "publisher": { "@type": "Organization", "name": "Human Clarity Institute", "url": "https://humanclarityinstitute.com" },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "inLanguage": "en-GB",
+  "distribution": [
+    { "@type": "DataDownload", "encodingFormat": "text/html", "contentUrl": "https://doi.org/10.5281/zenodo.17394087" }
+  ]
+}
