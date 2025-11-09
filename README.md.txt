@@ -41,4 +41,37 @@ This dataset is released under the [Creative Commons Attribution 4.0 Internation
 ## Citation  
 Human Clarity Institute (2025). *HCI Focus & Distraction Survey 2025 [Data set]*. Human Clarity Institute. https://humanclarityinstitute.com  
 
+---
+
+## Data Integrity Note
+
+This dataset has undergone a full internal audit by the Human Clarity Institute (HCI) to confirm the accuracy, completeness, and consistency of all source data and metadata.  
+All validation steps were completed as part of HCI’s 2025 data audit initiative to ensure long-term integrity across the Institute’s open datasets.
+
+No alterations were made to survey responses or core data values during the audit.  
+Minor adjustments (e.g., metadata formatting, schema alignment, DOI cross-referencing) were applied only where required for cross-platform consistency between GitHub, Zenodo, and the HCI website.
+
+This dataset is therefore considered **final and integrity-verified** as of the 2025 audit completion date.
+
+---
+
+## Data Verification Method (Legacy Audit Process)
+
+This dataset was part of HCI’s first internal verification cycle, conducted before the rollout of the Institute’s standardised 2026 data-validation framework.  
+The verification process for this dataset was therefore **manual and analytical**, focusing on internal accuracy and thematic integrity rather than automated schema testing.
+
+### Process Summary
+- All survey responses were **cross-checked against original collection files** for duplication or structural errors.  
+- **Pivot-table analysis** in Excel was used to identify response clustering patterns and confirm consistency across categorical data.  
+- Thematic clusters (e.g., “focus erosion”, “digital fatigue”, “trust degradation”) were **derived manually** through qualitative review and cross-tabulation rather than algorithmic grouping.  
+- Final data tables were reconciled with metadata to ensure correct alignment of variable names, labels, and count totals.
+
+This legacy verification process differs from HCI’s current workflow, which now employs:
+1. Automated schema validation scripts,  
+2. Version-locked dataset manifests, and  
+3. A reproducible integrity-reporting pipeline used across all new datasets.
+
+While the current dataset remains accurate and stable, it is retained here as a **reference example of HCI’s early verification methodology**.
+
+
 
